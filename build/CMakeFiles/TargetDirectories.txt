@@ -1,0 +1,2 @@
+/home/oskari/projects/cli/cli-math-tools/build/CMakeFiles/edit_cache.dir
+/home/oskari/projects/cli/cli-math-tools/build/CMakeFiles/rebuild_cache.dir
