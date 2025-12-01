@@ -9,5 +9,5 @@ using std::vector;
 
 void mult_div(vector<string> &nums);
 void add_subs(vector<string> &nums);
-
+void solve(vector<string> &nums);
 #endif

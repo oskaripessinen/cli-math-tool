@@ -39,3 +39,19 @@ void add_subs(vector<string> &nums)
         }
     }
 }
+
+void solve(vector<string> &nums)
+{
+    cout << nums.size();
+    for (int i = 0; i < nums.size();)
+    {
+        if (nums[i] == "=")
+        {
+            nums.erase(nums.begin() + i);
+        }
+        else
+        {
+            i++;
+        }
+    }
+}
